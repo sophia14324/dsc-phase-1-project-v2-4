@@ -1,4 +1,4 @@
-Film analysis for possible Microsoft venture
+                Film analysis for possible Microsoft venture
 
 Overview
 
@@ -7,12 +7,15 @@ This project is about Microsoft wanting to hypothetically venture into the movie
 To investigate this, our hypothesis was:
 
 •	Movies are not profitable should not venture into the movie business (Null hypothesis)
+
 •	Movies are profitable and Microsoft should venture into the movie business (Alternate hypothesis)
 
 Platform Used
 
-				Jupyter Notebook
-				GitHub
+                                Jupyter Notebook
+                                
+                                GitHub
+
 Technologies Used
 
 				Python
